@@ -2,8 +2,8 @@
 }
 h1 {
     color : black;
-    font : bold 16px arial, verdana;
-    position : center;
+    font : bold 32px arial, verdana;
+    text-align : center;
 }
 p {
     background-color : blue;
