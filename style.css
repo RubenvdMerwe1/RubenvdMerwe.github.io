@@ -1,9 +1,10 @@
-﻿body {background-color : blue;
+﻿body {background-color : white;
 }
 h1 {
     color : black;
 }
 p {
-    background-color : green;
-    color : blue;
+    background : left;
+    background-color : blue;
+    color : white;
 }
