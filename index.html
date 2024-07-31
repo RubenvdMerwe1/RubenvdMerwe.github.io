@@ -10,11 +10,17 @@
             box-sizing: border-box;
         }
 
-        .column {
+        .leftcolumn {
             float: left;
-            width: 30%;
+            width: 40%;
             padding: 10px;
             height: 300px; 
+        }
+        .rightcolumn {
+            float: left;
+            width: 60%;
+            padding: 10px;
+            height: 300px;
         }
 
         .row:after {
@@ -27,14 +33,14 @@
 <body>
     
     <div class="row">
-        <div class="column" style="background-color: ivory">
-            <h1>Ruben van der Merwe</h1>
+        <div class="leftcolumn" style="background-color: darkgray">
+            <img src=" images/Ruben.jpg" alt=" Ruben" />
             <p></p>
             <p></p>
             <h2>Profile</h2>
             <p>I am a hardworking, ambitous person, eager to step into new situations that will further develop my skills.</p>
         </div>
-        <div class="column" style="background-color:ivory">
+        <div class="rightcolumn" style="background-color: darkgrey">
             <h1>Ruben van der Merwe</h1>
             <p></p>
             <p></p>
