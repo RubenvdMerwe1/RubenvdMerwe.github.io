@@ -5,6 +5,12 @@ h1 {
     font : bold 32px arial, verdana;
     text-align : center;
 }
+h2 {
+    color: black;
+    font: bold 20px arial, verdana;
+    text-align: center;
+}
+
 p {
     color : black;
 }
