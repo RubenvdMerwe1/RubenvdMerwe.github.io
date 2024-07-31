@@ -1,8 +1,9 @@
-﻿body {background-color : blue;
+﻿body {background-color : white;
 }
 h1 {
-    color : yellow;
+    color : black;
 }
 p {
-    color : orange;
+    background-color : green;
+    color : blue;
 }
