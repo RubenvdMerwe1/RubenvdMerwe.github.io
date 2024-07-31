@@ -1,2 +1,2 @@
-# CMPG323-VirtualCV
+# RubenvdMerwe.github.io
 This repository will be used to create and store the code for the virtual CV used in the first deliverable of CMPG323.
